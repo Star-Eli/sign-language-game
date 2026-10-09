@@ -1,0 +1,8 @@
+﻿__pycache__/
+*.py[cod]
+mp-env/
+venv/
+sessions/*.json
+letters/chart.jpg
+letters/chart_tile_*.jpg
+Thumbs.db
